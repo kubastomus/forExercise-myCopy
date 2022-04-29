@@ -1,0 +1,3 @@
+Cześć, czytaj mnie oraz
+podaj ilość słów, która tu występuje ;)
+Bingo, działa !!!
